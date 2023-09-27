@@ -11,7 +11,8 @@ sudo apt install openjdk-8-jdk
 Make sure to verify the installation after completing this step.
 To check it’s there
 ```bash
-cd /usr/lib/jvm
+cd /usr/lib/jvm/
+ls
 ``` 
 open .bashrc file with:
 ```bash
